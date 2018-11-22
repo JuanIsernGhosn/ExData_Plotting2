@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1542731184021.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2138279473",
+    "id" : "AAF7B5BD",
+    "lastKnownWriteTime" : 1542732872,
+    "last_content_update" : 1542732872011,
+    "path" : "~/OneDrive - Universidad de Las Palmas de Gran Canaria/Cursos/Cursos II/Data Science - Universidad Johns Hopkins/4. Exploratory Data Analysis/Week 4/Course Project 2/ExData_Plotting2/read_data.R",
+    "project_path" : "ExData_Plotting2/read_data.R",
+    "properties" : {
+        "cursorPosition" : "8,48",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
